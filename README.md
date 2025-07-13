@@ -1,4 +1,4 @@
-# Warzone Toolkit - Security Research Project
+# Warzone Toolkit 
 
 ![Compatibility](https://img.shields.io/badge/Game-Warzone%202.0-blue)
 ![Status](https://img.shields.io/badge/Status-Research%20Project-yellow)
